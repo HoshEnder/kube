@@ -1,0 +1,7 @@
+replicaCount: 3
+image:
+  repository: odhl/image-fastapi
+  tag: latest
+service:
+  type: ClusterIP
+  port: 80

@@ -1,0 +1,3 @@
+resources:
+- pgadmin-deployment.yaml
+- pgadmin-service.yaml

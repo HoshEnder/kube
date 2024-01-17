@@ -1,0 +1,5 @@
+resources:
+- fastapi-deployment.yaml
+- fastapi-service.yaml
+- fastapi-ingress.yaml
+- fastapi-hpa.yaml
